@@ -49,5 +49,9 @@ Together, these results highlight CISD2 as an important neuroprotective target a
 - KEGG Pathways
 - STRING Interaction Network
 
+**External Links**
+- **IJBR:** https://www.ijbr.com.pk/IJBR/article/view/2557.
+- **Google Scholar:** https://bit.ly/3M1EknV
+
 **📄 License**
 © 2025 **Bilal Shafiq** — All rights reserved.
