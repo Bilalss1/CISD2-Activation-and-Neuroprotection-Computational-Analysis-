@@ -51,7 +51,7 @@ Together, these results highlight CISD2 as an important neuroprotective target a
 
 ## 🔗 External Links
 
-- **IJBR:**  
+- **Journal Website:**  
   [Read Article](https://www.ijbr.com.pk/IJBR/article/view/2557)
 
 - **Google Scholar:**  
