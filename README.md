@@ -49,9 +49,16 @@ Together, these results highlight CISD2 as an important neuroprotective target a
 - KEGG Pathways
 - STRING Interaction Network
 
-**External Links**
-- **IJBR:** https://www.ijbr.com.pk/IJBR/article/view/2557.
-- **Google Scholar:** https://bit.ly/3M1EknV
+## External Links
 
-**📄 License**
+- **IJBR:**  
+  [View Article](https://www.ijbr.com.pk/IJBR/article/view/2557)
+
+- **Google Scholar:**  
+  [View on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=2.%09Predictive+Data+Modeling+of+CISD2+Activation+for+Neuroprotection%3A+Insights+from+In+Silico+and+Machine+Learning+Approaches&btnG=)
+
+---
+
+## License
+
 © 2025 **Bilal Shafiq** — All rights reserved.
